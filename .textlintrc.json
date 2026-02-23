@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "common-misspellings": true,
+    "preset-japanese": true,
+    "preset-jtf-style": {
+      "1.1.1.本文": false,
+      "1.1.2.ピリオド(.)とカンマ(,)": false
+    }
+  }
+}

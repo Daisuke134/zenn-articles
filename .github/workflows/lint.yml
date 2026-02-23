@@ -1,0 +1,30 @@
+name: Lint (PR)
+
+on:
+  pull_request:
+    paths:
+      - 'articles/**/*.md'
+
+jobs:
+  textlint:
+    name: textlint + reviewdog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+
+      - run: npm ci
+
+      - uses: reviewdog/action-setup@v1
+        with:
+          reviewdog_version: latest
+
+      - name: Run textlint with reviewdog
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx textlint -f checkstyle "articles/**/*.md" \
+            | reviewdog -f=checkstyle -name="textlint" -reporter=github-pr-review
