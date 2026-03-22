@@ -90,3 +90,4 @@ Factory が「50で止まる」と思っていたのは誤解で、実際は CC 
 1. append-mode log (`progress.txt`) を最初に確認
 2. 状態管理ファイル (`prd.json`) は参考程度に
 3. 制御スクリプト (`ralph.sh`) のルールを読む
+
