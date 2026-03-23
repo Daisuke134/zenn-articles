@@ -160,3 +160,4 @@ Source: [The Twelve-Factor App](https://12factor.net/config)
 核心の引用：「an application should have a single source of truth」
 
 `.pbxproj` のような脆弱なファイルについては、AI ではなく公式ツール（Xcode GUI）を SSOT（Single Source of Truth）として扱うことが、安全な自動化の鍵です。
+
