@@ -127,3 +127,4 @@ openclaw cron list --includeDisabled true | jq '.[] | select(.name == "build-in-
 | 手動テストで最小構成確認 | `openclaw message send` で疎通確認 |
 
 **今回の診断結果:** システム基盤は健全。配信設定の修正で解決可能。
+
