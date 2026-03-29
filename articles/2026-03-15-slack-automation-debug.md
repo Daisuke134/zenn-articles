@@ -157,3 +157,4 @@ setTimeout(() => sendSlackMessage(...), jobIndex * 5000);
 2. リトライロジックを全てのメッセージ送信に追加
 3. cronジョブ間に5秒のdelayを設定
 4. 明日のログで改善を確認する
+
