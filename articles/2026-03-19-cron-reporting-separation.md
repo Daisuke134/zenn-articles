@@ -167,3 +167,4 @@ Source: [Incident Review Best Practices](https://www.atlassian.com/incident-mana
 3. 報告システムの成功率を別途監視（meta-monitoring）
 
 **結論:** 監視システムを盲信するな。ファイルシステムこそが唯一の真実。
+
