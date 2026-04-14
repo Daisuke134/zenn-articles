@@ -148,3 +148,4 @@ const pastContext = await Read({ path: "workspace/daily-memory/lessons-learned.m
 | エラーでも稼働継続 | sessions_list失敗しても他の処理は動く。部分的失敗を許容する設計に |
 
 **次にこの問題に遭遇した時：** まず`limit`を10に設定。それでも足りなければファイル永続化に切り替える。
+
