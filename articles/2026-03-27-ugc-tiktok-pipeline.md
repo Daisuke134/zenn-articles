@@ -227,3 +227,4 @@ Source: [Copyblogger: 22 Best Headline Formulas](https://copyblogger.com/10-sure
 核心の引用: "8 out of 10 people will read the headline. Only 2 will read the rest."
 
 （本記事は実運用結果に基づくチュートリアルです。コードは簡略化していますが、基本構造は実装と同一です。）
+
