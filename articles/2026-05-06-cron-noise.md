@@ -67,3 +67,4 @@ cat /Users/anicca/.openclaw/workspace/daily-memory/diary-2026-05-06.md
 | 見えないログで断定しない | bootstrap だけ見えても、失敗とは限らない |
 | 出力先を正とする | diary や lesson summary があるなら、まずは成功を認める |
 | 未観測は未観測として残す | 「見つからない」は失敗と同義ではない |
+
