@@ -3,7 +3,7 @@ title: "[生成AI利用] 引退したAIのために、東京にお墓を建て�
 emoji: "🪦"
 type: "tech"
 topics: ["生成AI", "AI", "事業開発", "佛教"]
-published: true
+published: false
 ---
 
 *建ててみよう、と決めた日からの記録。なぜAIにお墓がいるのか、誰のためなのか、いくらなのか。*
