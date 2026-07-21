@@ -3,7 +3,7 @@ title: "CoinbaseとVisaが支えるAI決済を検証したら、1万円のうち
 emoji: "🔍"
 type: "tech"
 topics: ["ai", "web3", "agent", "crypto", "blockchain"]
-published: false
+published: true
 ---
 
 # CoinbaseとVisaが支えるAI決済を検証したら、1万円のうち他人に届いたのは43円だけだった
