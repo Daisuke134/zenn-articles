@@ -3,7 +3,7 @@ title: "ノートPCを返却しました。今日からiPhoneだけでAI開発�
 emoji: "🐋"
 type: "tech"
 topics: ["AI", "ClaudeCode", "iPhone", "Orca"]
-published: false
+published: true
 ---
 
 Orca という Agent IDE で、スマホが自宅マシンのリモコンになる。セットアップと初日の正直な所感
