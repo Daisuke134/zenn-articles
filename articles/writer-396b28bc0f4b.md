@@ -1,8 +1,8 @@
 ---
 title: "AIエージェントに毎回「次は？」と聞かれない仕組み – ループ設計の実践ガイド（日本語版）"
-emoji: 💡
-type: tech
-topics: [ai, productivity]
+emoji: "💡"
+type: "tech"
+topics: ["AI", "productivity"]
 published: true
 ---
 ## AIエージェントに毎回「次は？」と聞かれない仕組み  – ループ設計の実践ガイド（日本語版）
