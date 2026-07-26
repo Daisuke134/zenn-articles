@@ -3,7 +3,7 @@ title: "AIエージェントを放置したい人へ、「止まり方」を先�
 emoji: "🔁"
 type: "tech"
 topics: ["ai", "agents", "automation", "devops"]
-published: false
+published: true
 ---
 
 ## [0] 先に結論
