@@ -3,7 +3,7 @@ title: "AIエージェントのPASSだけでは学習を証明できない。次
 emoji: "🧾"
 type: "tech"
 topics: ["ai-agents", "evaluation", "softwareengineering", "observability", "automation"]
-published: false
+published: true
 ---
 
 - 現在の入力が`PASS`したことと、過去の失敗が次の実行を変えたことは別です。
