@@ -3,7 +3,7 @@ title: "SDKを更新してもFast modeにはならない。送信値と応答値
 emoji: "⚙️"
 type: "tech"
 topics: ["python", "openai", "api", "testing"]
-published: false
+published: true
 ---
 
 Responses APIまたはChat Completions APIを使う本番Pythonクライアントで、OpenAI Python SDK 2.51.0への更新を検討している人向けです。lockfileの版番号が変わっても、リクエストがFast modeを選んだ証拠にはなりません。判断に必要なのは、SDKの署名、実際のリクエスト本文、レスポンスの処理階層を分けた証跡です。
