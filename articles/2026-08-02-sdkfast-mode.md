@@ -198,4 +198,4 @@ Fast modeを初めて有効にする経路を一つ選び、検証テンプレ�
 
 ## さいごに
 SDKの更新とFast modeの選択を切り分けるための境界を整理しました。
-<!-- zenn-deferred-retry:039b0e17d0ee4a12b425fe30ca78d9bbb74704e9 -->
+<!-- zenn-deferred-retry:a30a451472e0ab23a619605471ef1e7ce905dd00 -->
